@@ -1,0 +1,481 @@
+.cover_container{
+    background-color: #5e5672;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+.wedding_cover{
+    width: 40vw;
+    margin: auto;
+    display: flex;
+}
+.wedding_cover .imagewc{
+    width: 40vw;
+    margin: auto;
+    margin-top: 3vw;
+}
+.inisial_cover{
+    width: 40vw;
+    height: auto;
+    display: flex;
+    margin: auto;
+}
+.inisial_cover .imageic{
+    width: 30vw;
+    margin: auto;
+}
+.icon_cover{
+    width: 10vw;
+    height: auto;
+    display: flex;
+    margin: auto;
+}
+.icon_cover .imageicon{
+    width: 8vw;
+    height: auto;
+    margin: auto;
+    margin-top: 3vw;
+    margin-left: 2vw;
+}
+.buka_undangan{
+    width: 40vw;
+    height: auto;
+    display: flex;
+    margin: auto;
+    margin-top: 1vw;
+    margin-bottom: 5vw;
+
+}
+.buka_undangan p{
+    text-align: center;
+    margin: auto;
+    color: #e5bda7;
+    font-size: 2vw;
+}
+.page2{
+    width: 100%;
+    height: 100%;
+    background-image: url("../assets/page2_detail/bg0.JPG");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    transition: 1.5s linear;
+    -moz-transition: 1.5s linear;
+}
+.header_page2{
+    width: 40vw;
+    height:auto;
+    display: flex;
+    margin: auto;
+}
+.header_page2 .text_header_page2{
+    width: 50vw;
+    height: auto;
+    margin: auto;
+    margin-top: 2vw;
+}
+.border_page2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-top: 10vw;
+}
+.border_page2 .image_border_page2{
+    width: 100%;
+    height: auto;
+    margin-bottom: -1vw;
+    
+}
+.page3{
+    background-color:#e5bda7 ;
+    width: 100%;
+}
+.page3 .header_page3{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: auto;
+}
+.header_page3 .content{
+    margin: auto;
+    width: 30vw;
+    margin-top: 2vw;
+}
+.page3 .text_content{
+    width: 100%;
+    display: flex;
+    margin: auto;
+    margin-top: 2vw;
+}
+.page3 .text_content p{
+    width: 50vw;
+    margin: auto;
+    text-align: center;
+    font-size: 2vw;
+}
+.card{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 3vw;
+}
+.card_putri{
+    width: 20vw;
+    height: auto;
+    margin-right: 1vw;
+    display: flex;
+    flex-direction: column;
+    font-size: 2vw;
+    text-align: center;
+}
+.card_putri .header{
+    width: 100%;
+    height: auto;
+}
+.header .foto{
+    width: 80%;
+    height:auto;
+    border-radius: 100%;
+    display: flex;
+    margin: auto;
+    margin-top: 2vw;
+
+}
+.sosmed_putri{
+    width: 10vw;
+    height: 20vw;
+    border: black;
+    margin-right: 3vw;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2vw;
+    
+}
+.sosmed_putri .igputri{
+    width: 100%;
+    height: auto;
+}
+.igputri .logo{
+    width: 50%;
+    margin-top:2vw;
+    
+}
+.sosmed_putri .fbputri{
+    width: 100%;
+    height: auto;
+    margin-top:1vw
+}
+.fbputri .logo{
+    width: 50%;
+
+}
+
+.card_putra{
+    width: 20vw;
+    height: 20vw;
+    border: black;
+    margin-right: 1vw;
+    display: flex;
+    flex-direction: column;
+    font-size: 2vw;
+    text-align: center;
+
+}
+.sosmed_putra{
+    width: 10vw;
+    height: 20vw;
+    border: black;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2vw;
+}
+.sosmed_putra .igputra{
+    width: 100%;
+    height: auto;
+}
+.igputra .logo{
+    width: 50%;
+    margin-top:2vw;
+}
+.sosmed_putra .fbputra{
+    width: 100%;
+    height: auto;
+    margin-top:1vw
+}
+.fbputra .logo{
+    width: 50%;
+}
+.logo:hover{
+    background-color: rgb(253, 253, 253);
+    border-radius: 20%;
+    padding: 0.6vw;
+    width:50% ;
+}
+.card_putra .header{
+    width: 100%;
+    height: auto;
+}
+.page3 .bottom_border{
+    width: 100%;
+    height: auto;
+}
+.page3 .bottom_border .foto{
+    width: 100%;
+    height: auto;
+    margin-bottom: -2vw;
+}
+.page4{
+    width: 100%;
+    height: auto;
+    background-color: #5e6572;
+}
+.content .maintext{
+    font-size: 1.3vw;
+}
+.page4 .header{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+.page4 .header .savedate{
+    width: 30vw;
+    height: auto;
+    margin-top: 3vw;
+}
+.savedate .foto{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: auto;
+}
+.textheader_page4{
+    width: 30vw;
+    height: auto;
+    display: flex;
+    margin: auto;
+}
+.textdate_page4{
+    width: 30vw;
+    height: auto;
+    display: flex;
+    margin: auto;
+}
+.page4 .maincenter{
+    margin-top: 7vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+        
+}
+.countdown_page4{
+    display: flex;
+    font-size: 2vw;
+    justify-content: space-between;
+    width:100%;
+    height: auto;
+}
+.countdown_page4 div{
+    position: relative;
+    background-color: #e5bda7;
+    margin: 1vw;
+    width: 6vw;
+    height: auto;
+    padding: 1vw;
+    text-align: center;
+    border-radius: 2vw;
+}
+.countdown_page4 div:before{
+    content: ' ';
+    width: 100% ; 
+    height: 5vw;
+    position: absolute;
+    top: 5vw;
+    left: 0vw;
+    bottom: 0vw;
+    font-size: 1.5vw;
+    color:rgb(229, 233, 233);
+    
+
+}
+.countdown_page4 div#day:before{
+    content: 'Days';
+}
+.countdown_page4 div#hours:before{
+    content: 'Hours';
+}
+.countdown_page4 div#minutes:before{
+    content: 'Minutes';
+}
+.countdown_page4 div#second:before{
+    content: 'Seconds';
+}
+.acc_page4{
+    position: absolute;
+    width: auto;
+    display: flex;
+    left: 60vw;
+}
+.content_acc_page4{
+    width: 35vw;
+    margin-right: 0vw;
+    
+}
+.bottom_page4{
+    width: 100%;
+    display: flex;
+}
+.content_bottom_page4{
+    width: 100%;
+    margin-bottom: -1vw;
+}
+/*page5*/
+.page5{
+    width: 100%;
+    height: auto;
+    background-color:#f4c2a1 ;
+    box-sizing: border-box;
+}
+.content_header_page5{
+    display: flex;
+    flex-direction: column;
+}
+.image_header_page5{
+    width: 40vw;
+    display: flex;
+    margin: auto;
+    margin-top: 5vw;
+}
+.border_image_header_page5{
+    width: 40vw;
+    display: flex;
+    margin: auto;
+}
+/*css image slideshow*/
+.container_main_page5{
+    width: 70vw;
+    position: relative;
+    margin: auto;
+    box-sizing: border-box;
+    margin-top: 5vw;
+}
+.slide img{
+    width: 100%;
+    border-radius: 2%;
+    box-shadow: 0.5vw 0.5vw grey;
+}
+.slide{
+    display: none;
+    
+}
+.prev, .next{
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    width: auto;
+    padding: 1vw;
+    margin: auto;
+    color: #ffff;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    font-size: 5vw;
+    text-shadow:0.3vw 0.3vw grey;
+}
+.next {
+    right: 0;
+}
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+    background-color: rgba(22, 22, 22, 0.8);
+}
+
+/*animasi*/
+.fade{
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+@-webkit-keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  /*acc bunga page5*/
+  .bottom_acc{
+      width: auto;
+      height: auto;
+  }
+  .border_bottom_page5{
+      width: 100%;  
+      margin-bottom: -1vw;      
+  }
+  /*page6*/
+  .container_page6{
+      width: 100%;
+      height: auto;
+      background-image: url("../assets/page6_detail/background.png");
+      background-size: 100%;
+      background-color: #5e6572;
+      background-repeat: no-repeat;
+      padding-top: 14vw;
+      padding-bottom: 10vw;
+  }
+  .maps{
+    width: 70%;
+    height: 20vw;
+    display: flex;
+    margin: auto;
+    
+  }
+  iframe{     
+      display: flex;
+      margin: auto;
+      width: 40vw;
+      height: 20vw;
+      border-radius: 4%;
+      box-shadow:0.5vw 0.5vw rgb(93, 94, 92);
+  }
+.link_maps{
+    width: 40vw;
+    height: auto;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    border-radius: 4%;
+    margin-top: 2vw;
+}
+.logo_maps p{
+    width: auto;
+    height: auto;
+    font-size: 1vw;
+    color: honeydew;
+    margin-bottom: -0.5vw;
+    margin: auto;
+    text-align: center;
+}
+.logo_maps{
+    width: auto;
+    height:auto;
+    border-radius: 4%;
+}
+.logo_maps img{
+    width: 10vw;
+    margin: auto;
+    display: flex;
+}
+.klik:hover{
+    background-color: rgb(252, 252, 252);
+    opacity: 0.5;
+}
