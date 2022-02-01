@@ -1,6 +1,6 @@
 .cover_container{
     background-color: #5e5672;
-    width: 100%;
+    width: 100vw;
     height: auto;
     display: flex;
     flex-direction: column;
